@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dedey-test/static/css/main.286fdbf5.chunk.css",
+    "main.js": "/dedey-test/static/js/main.b0b826e2.chunk.js",
+    "main.js.map": "/dedey-test/static/js/main.b0b826e2.chunk.js.map",
+    "runtime-main.js": "/dedey-test/static/js/runtime-main.3e65a50a.js",
+    "runtime-main.js.map": "/dedey-test/static/js/runtime-main.3e65a50a.js.map",
+    "static/css/2.4bd8e119.chunk.css": "/dedey-test/static/css/2.4bd8e119.chunk.css",
+    "static/js/2.ea2956a6.chunk.js": "/dedey-test/static/js/2.ea2956a6.chunk.js",
+    "static/js/2.ea2956a6.chunk.js.map": "/dedey-test/static/js/2.ea2956a6.chunk.js.map",
+    "index.html": "/dedey-test/index.html",
+    "static/css/2.4bd8e119.chunk.css.map": "/dedey-test/static/css/2.4bd8e119.chunk.css.map",
+    "static/css/main.286fdbf5.chunk.css.map": "/dedey-test/static/css/main.286fdbf5.chunk.css.map",
+    "static/js/2.ea2956a6.chunk.js.LICENSE.txt": "/dedey-test/static/js/2.ea2956a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e65a50a.js",
+    "static/css/2.4bd8e119.chunk.css",
+    "static/js/2.ea2956a6.chunk.js",
+    "static/css/main.286fdbf5.chunk.css",
+    "static/js/main.b0b826e2.chunk.js"
+  ]
+}
