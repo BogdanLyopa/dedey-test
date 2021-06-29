@@ -1,0 +1,26 @@
+.file-input {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  opacity: 0;
+}
+
+form p {
+  text-align: center;
+  font-family: Arial;
+}
+.file-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  background-color: lightseagreen;
+  width: 500px;
+  height: 200px;
+  border: 4px dashed #232323;
+}

@@ -1,0 +1,46 @@
+.form__counters {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form__counter {
+  display: flex;
+  align-items: center;
+  @media screen and (min-width: 1100px) {
+    align-items: flex-end;
+  }
+}
+
+.form__counter label {
+  margin-bottom: 5px;
+}
+
+.form__counter input {
+  width: 25px;
+  text-align: center;
+  height: 25px;
+  font-size: 16px;
+  color: #8a929a;
+}
+.form__counters--buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.counter__box {
+  display: flex;
+  margin-right: 20px;
+}
+
+.arrow__top {
+  fill: orange;
+}
+.arrow__bot {
+  fill: #8a929a;
+}
+
+.counter__button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
